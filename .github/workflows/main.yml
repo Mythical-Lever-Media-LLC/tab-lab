@@ -34,4 +34,4 @@ jobs:
           # Project on code inspector. Will use the preferences of this analysis. Leave blank and no preferences are used
           project_name: ''
           # Timeout before giving up (in case analysis takes too long). Default is 10 minutes
-          max_timeout_sec: '600'
+          max_timeout_sec: ''

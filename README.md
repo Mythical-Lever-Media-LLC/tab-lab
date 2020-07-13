@@ -1,4 +1,7 @@
 ![CI](https://github.com/Mythical-Lever-Media-LLC/tab-lab/workflows/CI/badge.svg)
+
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
